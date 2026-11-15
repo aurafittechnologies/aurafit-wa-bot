@@ -1,0 +1,5365 @@
+[
+ {
+  "model": "AU-WIRE",
+  "name": "Aurafit FR Green Wire",
+  "category": "FR Wire",
+  "specs": [
+   [
+    "Size",
+    "0.75mm / 1mm / 1.5mm / 2.5mm / 4mm / 6mm"
+   ],
+   [
+    "Type",
+    "FR (Flame Retardant) Wire"
+   ],
+   [
+    "Body Colour",
+    "Red, Green, Yellow, Blue, Black, White, Grey"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-WIRE/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-WIRE/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-WIRE/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-WIRE/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-WIRE/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-WIRE/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-WIRE/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-WIRE/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-101",
+  "name": "Delta",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "63×61mm / 84×79mm / 93×87mm"
+   ],
+   [
+    "Cut Out",
+    "55mm / 75mm / 85mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-101/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-101/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-101/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-101/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-101/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-101/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-101/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-101/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-102",
+  "name": "Glow",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "71×50mm / 85×58mm / 95×74mm"
+   ],
+   [
+    "Cut Out",
+    "65mm / 80mm / 90mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "Reflector Colour",
+    "Black, White, Rose Gold"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-102/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-102/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-102/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-102/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-102/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-102/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-102/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-102/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-103",
+  "name": "Delta+",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "75×63mm / 85×76mm / 95×91mm"
+   ],
+   [
+    "Cut Out",
+    "65mm / 75mm / 85mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "Reflector Colour",
+    "Black, Rose Gold"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-103/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-103/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-103/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-103/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-103/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-103/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-103/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-103/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-105",
+  "name": "Sphere",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "60×42mm / 80×50mm / 110×62mm"
+   ],
+   [
+    "Cut Out",
+    "55mm / 75mm / 95mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-105/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-105/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-105/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-105/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-105/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-105/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-105/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-105/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-106",
+  "name": "Prism",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "80×45mm"
+   ],
+   [
+    "Cut Out",
+    "75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80"
+   ],
+   [
+    "Body Colour",
+    "Grey-Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-106/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-106/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-106/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-106/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-106/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-106/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-106/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-106/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-107",
+  "name": "Nova",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "62×60mm / 85×62mm / 105×72mm"
+   ],
+   [
+    "Cut Out",
+    "55mm / 75mm / 95mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "Reflector Colour",
+    "Black, White, Matte Black, Rose Gold"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-107/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-107/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-107/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-107/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-107/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-107/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-107/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-107/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-202",
+  "name": "Ray",
+  "category": "Flat Down Light",
+  "specs": [
+   [
+    "Wattage",
+    "16W / 24W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "120×28mm / 170×28mm"
+   ],
+   [
+    "Cut Out",
+    "105mm / 155mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "CRI",
+    ">80"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-202/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-202/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-202/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-202/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-202/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-202/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-202/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-202/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-203",
+  "name": "Blaze",
+  "category": "Pro Down Light",
+  "specs": [
+   [
+    "Wattage",
+    "12W / 18W / 24W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "100×50mm / 130×50mm / 150×50mm"
+   ],
+   [
+    "Cut Out",
+    "95mm / 125mm / 145mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "CRI",
+    ">80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "Reflector Colour",
+    "Black, White, Rose Gold"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-203/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-203/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-203/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-203/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-203/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-203/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-203/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-203/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-204",
+  "name": "Cubbo",
+  "category": "Mini Down Light",
+  "specs": [
+   [
+    "Wattage",
+    "12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "85×48mm / 105×54mm"
+   ],
+   [
+    "Cut Out",
+    "75mm / 95mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K"
+   ],
+   [
+    "Beam Angle",
+    "38°"
+   ],
+   [
+    "CRI",
+    ">80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-204/1.jpg"
+  ]
+ },
+ {
+  "model": "AU-401",
+  "name": "Fluoro",
+  "category": "Surface Cylinder",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "60×70mm / 73×90mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 3-in-1"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "Reflector Colour",
+    "Black, Gold"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-401/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-401/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-401/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-401/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-401/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-401/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-401/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-401/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-402",
+  "name": "Glow X",
+  "category": "Surface Cylinder",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "63×80mm / 78×90mm / 88×100mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 3-in-1"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "Reflector Colour",
+    "Black, White, Rose Gold"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-402/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-402/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-402/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-402/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-402/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-402/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-402/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-402/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-403",
+  "name": "Glow Axis",
+  "category": "Surface Cylinder",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "59×81mm / 73×90mm / 87×110mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 3-in-1"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80"
+   ],
+   [
+    "Body Colour",
+    "Black"
+   ],
+   [
+    "Reflector Colour",
+    "Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-403/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-403/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-403/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-403/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-403/5.jpg"
+  ]
+ },
+ {
+  "model": "AU-404",
+  "name": "Minicam",
+  "category": "Surface Cylinder",
+  "specs": [
+   [
+    "Wattage",
+    "12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "82×65mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 3-in-1"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, Grey"
+   ],
+   [
+    "Reflector Colour",
+    "Matte Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-404/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-404/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-404/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-404/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-404/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-404/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-404/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-404/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-114",
+  "name": "Quartz",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "63×75mm / 63×75mm"
+   ],
+   [
+    "Cut Out",
+    "55mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "Reflector Colour",
+    "Grey-Black, Matte Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-114/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-114/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-114/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-114/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-114/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-114/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-114/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-114/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-115",
+  "name": "Clavis",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "60×50mm / 85×55mm"
+   ],
+   [
+    "Cut Out",
+    "55mm / 75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-115/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-115/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-115/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-115/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-115/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-115/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-115/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-115/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-116",
+  "name": "Pixo",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "65×58mm / 82×64mm"
+   ],
+   [
+    "Cut Out",
+    "55mm / 75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-116/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-116/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-116/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-116/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-116/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-116/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-116/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-116/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-117",
+  "name": "Delta Pro",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "51×53mm / 63×54mm / 83×70mm"
+   ],
+   [
+    "Cut Out",
+    "45mm / 55mm / 75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-117/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-117/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-117/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-117/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-117/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-117/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-117/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-117/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-118",
+  "name": "Wave",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "82×66mm"
+   ],
+   [
+    "Cut Out",
+    "75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "Reflector Colour",
+    "Matte Black, Matte White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-118/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-118/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-118/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-118/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-118/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-118/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-118/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-118/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-119",
+  "name": "Movable",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "30W / 50W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "160×90mm / 160×105mm"
+   ],
+   [
+    "Cut Out",
+    "145mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-119/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-119/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-119/3.jpg"
+  ]
+ },
+ {
+  "model": "AU-122",
+  "name": "Sparo",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "35×70mm / 45×78mm / 55×96mm"
+   ],
+   [
+    "Cut Out",
+    "30mm / 40mm / 50mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-122/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-122/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-122/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-122/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-122/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-122/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-122/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-122/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-123",
+  "name": "Beam",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "60×76mm / 70×86mm"
+   ],
+   [
+    "Cut Out",
+    "55mm / 65mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-123/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-123/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-123/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-123/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-123/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-123/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-123/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-123/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-124",
+  "name": "Spirit",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "70×45mm / 80×50mm / 90×60mm"
+   ],
+   [
+    "Cut Out",
+    "65mm / 75mm / 85mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-124/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-124/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-124/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-124/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-124/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-124/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-124/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-124/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-125",
+  "name": "Hide",
+  "category": "Pull Out",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "47×88mm / 60×94mm"
+   ],
+   [
+    "Cut Out",
+    "40mm / 55mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-125/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-125/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-125/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-125/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-125/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-125/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-125/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-125/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-126",
+  "name": "Shark",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "65×77mm / 85×97mm / 85×97mm"
+   ],
+   [
+    "Cut Out",
+    "55mm / 75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "Reflector Colour",
+    "Grey-Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-126/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-126/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-126/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-126/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-126/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-126/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-126/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-126/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-127",
+  "name": "Ranger",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "60×85mm"
+   ],
+   [
+    "Cut Out",
+    "55mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "Reflector Colour",
+    "Grey-Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-127/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-127/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-127/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-127/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-127/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-127/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-127/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-127/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-128",
+  "name": "Aura",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "60×62mm / 60×70mm"
+   ],
+   [
+    "Cut Out",
+    "55mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White, Black, Rose Gold, Silver"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-128/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-128/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-128/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-128/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-128/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-128/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-128/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-128/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-129",
+  "name": "Crysta",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "42×75mm / 52×90mm / 62×120mm"
+   ],
+   [
+    "Cut Out",
+    "35mm / 45mm / 55mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "24°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "Reflector Colour",
+    "Grey-Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-129/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-129/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-129/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-129/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-129/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-129/6.jpg"
+  ]
+ },
+ {
+  "model": "AU-130",
+  "name": "Vista",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "35×75mm / 45×90mm / 55×120mm"
+   ],
+   [
+    "Cut Out",
+    "30mm / 40mm / 50mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    ">80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White, Black, Grey-Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-130/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-130/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-130/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-130/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-130/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-130/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-130/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-130/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-104",
+  "name": "Crest",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "62×78mm / 72×78mm / 82×78mm"
+   ],
+   [
+    "Cut Out",
+    "55mm / 65mm / 75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White, Grey-Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-104/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-104/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-104/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-104/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-104/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-104/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-104/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-104/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-108",
+  "name": "Orion",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "65×45mm / 75×55mm / 95×57mm"
+   ],
+   [
+    "Cut Out",
+    "60mm / 70mm / 85mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White, Grey-Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-108/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-108/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-108/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-108/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-108/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-108/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-108/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-108/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-109",
+  "name": "Glanza",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "12W (2 in 1)"
+   ],
+   [
+    "Dimensions (W×H)",
+    "85×90mm"
+   ],
+   [
+    "Cut Out",
+    "75mm"
+   ],
+   [
+    "CCT",
+    "4000K"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-109/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-109/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-109/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-109/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-109/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-109/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-109/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-109/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-110",
+  "name": "Mini",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "3W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "38×28mm"
+   ],
+   [
+    "Cut Out",
+    "28mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80"
+   ],
+   [
+    "Body Colour",
+    "Black, White, Rose Gold"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-110/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-110/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-110/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-110/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-110/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-110/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-110/7.jpg"
+  ]
+ },
+ {
+  "model": "AU-111",
+  "name": "Jazz",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "63×43mm / 80×44mm / 94×51mm"
+   ],
+   [
+    "Cut Out",
+    "55mm / 75mm / 85mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-111/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-111/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-111/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-111/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-111/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-111/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-111/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-111/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-112",
+  "name": "Polo",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "70×62mm / 83×66mm / 103×66mm"
+   ],
+   [
+    "Cut Out",
+    "60mm / 75mm / 95mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-112/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-112/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-112/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-112/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-112/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-112/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-112/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-112/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-113",
+  "name": "Tornado",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "52×65mm / 62×75mm / 82×78mm"
+   ],
+   [
+    "Cut Out",
+    "45mm / 55mm / 75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-113/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-113/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-113/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-113/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-113/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-113/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-113/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-113/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-131",
+  "name": "Stellar",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "75×72mm"
+   ],
+   [
+    "Cut Out",
+    "65mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "Reflector Colour",
+    "Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-131/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-131/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-131/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-131/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-131/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-131/6.jpg"
+  ]
+ },
+ {
+  "model": "AU-132",
+  "name": "Cobra",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "53×61mm / 63×78mm / 83×83mm"
+   ],
+   [
+    "Cut Out",
+    "45mm / 55mm / 75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "24° / 36° / 36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White, Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-132/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-132/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-132/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-132/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-132/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-132/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-132/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-132/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-133",
+  "name": "Spectra",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "60×56mm / 70×60mm / 80×70mm"
+   ],
+   [
+    "Cut Out",
+    "55mm / 65mm / 75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "24° / 36° / 36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White, Black, Grey-Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-133/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-133/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-133/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-133/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-133/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-133/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-133/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-133/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-134",
+  "name": "Aqua",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "12W / 18W / 30W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "83×65mm / 103×75mm / 130×80mm"
+   ],
+   [
+    "Cut Out",
+    "75mm / 95mm / 120mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White, Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-134/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-134/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-134/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-134/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-134/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-134/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-134/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-134/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-135",
+  "name": "Titan",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "60×75mm / 88×82mm"
+   ],
+   [
+    "Cut Out",
+    "55mm / 75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "Reflector Colour",
+    "Grey-Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-135/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-135/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-135/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-135/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-135/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-135/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-135/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-135/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-136",
+  "name": "Cliff",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "52×70mm / 62×80mm / 82×90mm"
+   ],
+   [
+    "Cut Out",
+    "45mm / 55mm / 75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-136/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-136/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-136/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-136/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-136/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-136/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-136/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-136/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-137",
+  "name": "Photon",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "55×98mm / 55×98mm / 62×110mm"
+   ],
+   [
+    "Cut Out",
+    "45mm / 45mm / 55mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "24° / 24° / 36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "Reflector Colour",
+    "Grey-Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-137/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-137/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-137/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-137/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-137/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-137/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-137/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-137/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-138",
+  "name": "Matrix",
+  "category": "COB Spot Light",
+  "specs": [
+   [
+    "Wattage",
+    "2×12W / 2×18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "168×83×65mm / 210×105×75mm"
+   ],
+   [
+    "Cut Out",
+    "150×70mm / 195×90mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "White, Black"
+   ],
+   [
+    "Reflector Colour",
+    "Grey-Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-138/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-138/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-138/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-138/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-138/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-138/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-138/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-138/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-201",
+  "name": "Leo",
+  "category": "Deep Down Light",
+  "specs": [
+   [
+    "Wattage",
+    "12W / 18W / 24W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "120×50mm / 155×50mm / 175×50mm"
+   ],
+   [
+    "Cut Out",
+    "105mm / 140mm / 160mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 2700-6500K (Tunable)"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "CRI",
+    "80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-201/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-201/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-201/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-201/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-201/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-201/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-201/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-201/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-205",
+  "name": "Stylo",
+  "category": "Slim Down Light",
+  "specs": [
+   [
+    "Wattage",
+    "12W / 18W / 24W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "117×33mm / 136×33mm / 157×33mm"
+   ],
+   [
+    "Cut Out",
+    "110mm / 130mm / 150mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "CRI",
+    "80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-205/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-205/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-205/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-205/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-205/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-205/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-205/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-205/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-405",
+  "name": "Hazel",
+  "category": "Surface Cylinder",
+  "specs": [
+   [
+    "Wattage",
+    "7W / 12W / 18W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "53×60mm / 62×60mm / 75×75mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 3-in-1"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "CRI",
+    "80 (90 available on request)"
+   ],
+   [
+    "Body Colour",
+    "Black"
+   ],
+   [
+    "Reflector Colour",
+    "Matte Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-405/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-405/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-405/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-405/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-405/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-405/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-405/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-405/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-501",
+  "name": "Evoq",
+  "category": "Linear Light",
+  "specs": [
+   [
+    "Wattage",
+    "10W"
+   ],
+   [
+    "Dimensions",
+    "148×45×32mm"
+   ],
+   [
+    "Cut Out",
+    "139×37mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 3-in-1, 2700-6500K (Tunable)"
+   ],
+   [
+    "CRI",
+    "80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "Reflector Colour",
+    "Grey-Black"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-501/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-501/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-501/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-501/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-501/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-501/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-501/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-501/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-502",
+  "name": "Rio",
+  "category": "Linear Light",
+  "specs": [
+   [
+    "Wattage",
+    "2 Head 4W / 3 Head 6W / 5 Head 10W"
+   ],
+   [
+    "Dimensions",
+    "148×45×32mm"
+   ],
+   [
+    "Cut Out",
+    "139×37mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 3-in-1, 2700-6500K (Tunable)"
+   ],
+   [
+    "CRI",
+    "80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "Reflector Colour",
+    "Grey-Black, Rose Gold"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-502/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-502/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-502/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-502/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-502/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-502/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-502/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-502/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-503",
+  "name": "Pro Linea",
+  "category": "Linear Light",
+  "specs": [
+   [
+    "Wattage",
+    "3 Head - 6W / 5 Head - 10W / 10 Head - 20W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "97×43×44mm / 150×43×44mm / 283×43×44mm"
+   ],
+   [
+    "Cut Out",
+    "92×35mm / 142×35mm / 275×35mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 3-in-1, 2700-6500K (Tunable)"
+   ],
+   [
+    "CRI",
+    "80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-503/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-503/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-503/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-503/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-503/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-503/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-503/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-503/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-SL",
+  "name": "Street Light",
+  "category": "Street Light",
+  "specs": [
+   [
+    "Wattage",
+    "24W / 36W / 50W / 100W"
+   ],
+   [
+    "Dimensions (W×H)",
+    "250×105×40mm / 295×120×40mm / 325×150×40mm / 330×168×40mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 6500K"
+   ],
+   [
+    "CRI",
+    "80"
+   ],
+   [
+    "LED Source",
+    "BMTC, Bridgelux, Everbrite"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-SL/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-SL/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-SL/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-SL/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-SL/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-SL/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-SL/7.jpg"
+  ]
+ },
+ {
+  "model": "AU-FL",
+  "name": "Uniq",
+  "category": "Flood Light",
+  "specs": [
+   [
+    "Wattage",
+    "60W / 120W / 150W / 200W / 250W / 400W"
+   ],
+   [
+    "Dimensions (H×W)",
+    "155×185mm / 195×230mm / 280×280mm / 280×280mm / 290×330mm / 382×425mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 6500K"
+   ],
+   [
+    "CRI",
+    "80"
+   ],
+   [
+    "LED Source",
+    "BMTC, Bridgelux, Everbrite"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-FL/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-FL/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-FL/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-FL/4.jpg"
+  ]
+ },
+ {
+  "model": "AU-PC",
+  "name": "PC",
+  "category": "Panel Light",
+  "specs": [
+   [
+    "Wattage",
+    "8W (4\") / 15W (5\") / 22W (6\")"
+   ],
+   [
+    "Dimensions (Round)",
+    "115×36mm / 145×36mm / 165×36mm"
+   ],
+   [
+    "Dimensions (Square)",
+    "115×115×36mm / 145×145×36mm / 165×165×36mm"
+   ],
+   [
+    "Cut Out",
+    "100mm / 125mm / 150mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 3-in-1"
+   ],
+   [
+    "CRI",
+    "80"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/fallback/fallback_PC_103.jpg"
+  ]
+ },
+ {
+  "model": "AU-ZB",
+  "name": "Zero Border",
+  "category": "PC Wireless Surface",
+  "specs": [
+   [
+    "Wattage",
+    "15W (5\") / 22W (6\")"
+   ],
+   [
+    "Dimensions (W×H)",
+    "123×31mm / 145×31mm"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K / 3-in-1"
+   ],
+   [
+    "CRI",
+    "80"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "LED Source",
+    "Bridgelux, Everbrite"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/fallback/fallback_Zero_Border_105.jpg"
+  ]
+ },
+ {
+  "model": "Premium",
+  "name": "LED Strip",
+  "category": "LED Strip",
+  "specs": [
+   [
+    "Voltage / LED Density",
+    "12V/24V - 240 LED per Mtr, 5mtr/roll  |  12V/24V - 180 LED per Mtr, 5mtr/roll"
+   ],
+   [
+    "PCB Width",
+    "10mm (240 LED) / 5mm (180 LED)"
+   ],
+   [
+    "Wattage",
+    "240 LED: 12V 55-60W/roll, 24V 75-80W/roll  |  180 LED: 12V/24V 40-45W/roll"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6500K"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/fallback/fallback_LED_Strip_107.jpg"
+  ]
+ },
+ {
+  "model": "12V/24V Series",
+  "name": "Compact Pro",
+  "category": "SMPS Power Supply",
+  "specs": [
+   [
+    "Wattage / Voltage / Amperage",
+    "24W 12V 2A · 36W 12V 3A · 60W 12V/24V 5A/2.5A · 100W 12V 8.3A"
+   ],
+   [
+    "Wattage / Voltage / Amperage (cont.)",
+    "120W 12V/24V 10A/5A · 150W 12V/24V 12.5A/6.25A · 200W 12V/24V 16.7A/8.3A"
+   ],
+   [
+    "Dimensions",
+    "90×40×22mm up to 178×50×22mm depending on wattage"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/fallback/fallback_Compact_Pro_109.jpg"
+  ]
+ },
+ {
+  "model": "SMPS Series",
+  "name": "Pro X1",
+  "category": "SMPS Power Supply",
+  "specs": [
+   [
+    "Wattage / Voltage / Amperage",
+    "24W 12V 2A · 36W 12V 3A · 60W 12V/24V 5A/2.5A · 100W 12V 8.3A"
+   ],
+   [
+    "Wattage / Voltage / Amperage (cont.)",
+    "120W 12V/24V 10A/5A · 150W 12V/24V 12.5A/6.25A · 200W 12V/24V 16.7A/8.3A"
+   ],
+   [
+    "Dimensions",
+    "90×37×22mm up to 178×50×22mm depending on wattage"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/fallback/fallback_Pro_X1_111.jpg"
+  ]
+ },
+ {
+  "model": "M05-01",
+  "name": "Nano Profile Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Nano Magnetic Light Series"
+   ],
+   [
+    "Wattage",
+    "10W / 14W / 20W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "100°"
+   ],
+   [
+    "Dimensions — 10W",
+    "L30.2 × W1.1 × H3.3 cm"
+   ],
+   [
+    "Dimensions — 14W",
+    "L40.2 × W1.1 × H3.3 cm"
+   ],
+   [
+    "Dimensions — 20W",
+    "L60.2 × W1.1 × H3.3 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "M05-01-10W, M05-01-14W, M05-01-20W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-01/1.jpg"
+  ]
+ },
+ {
+  "model": "M05-02",
+  "name": "Nano Linea Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Nano Magnetic Light Series"
+   ],
+   [
+    "Wattage",
+    "7W / 10W / 14W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "24°"
+   ],
+   [
+    "Dimensions — 7W",
+    "L20.2 × W1.1 × H3.3 cm"
+   ],
+   [
+    "Dimensions — 10W",
+    "L30.2 × W1.1 × H3.3 cm"
+   ],
+   [
+    "Dimensions — 14W",
+    "L60.2 × W1.1 × H3.3 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "M05-02-7W, M05-02-10W, M05-02-14W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-02/1.jpg"
+  ]
+ },
+ {
+  "model": "M05-04-7W",
+  "name": "Nano Track Spot",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Nano Magnetic Light Series"
+   ],
+   [
+    "Wattage",
+    "7W"
+   ],
+   [
+    "CCT",
+    "4000K"
+   ],
+   [
+    "Beam Angle",
+    "270°"
+   ],
+   [
+    "Dimensions",
+    "L12 × W8 × H2.5 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "M05-04-7W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-03/1.jpg"
+  ]
+ },
+ {
+  "model": "M05-TR01",
+  "name": "Nano Surface",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "05MM Nano Magnetic Light Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter"
+   ],
+   [
+    "Dimensions",
+    "W1.5 × H5.7 cm"
+   ],
+   [
+    "Product Codes",
+    "M05-TR01-SURFACE, M05-TR01-SURFACE"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-04/1.jpg"
+  ]
+ },
+ {
+  "model": "M05-TR03",
+  "name": "Nano Pop Conceal",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "05MM Nano Magnetic Light Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter"
+   ],
+   [
+    "Dimensions",
+    "W5.1 × H5.7 cm"
+   ],
+   [
+    "Product Codes",
+    "M05-TR03-CONCEAL, M05-TR03-CONCEAL"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-05/1.jpg"
+  ]
+ },
+ {
+  "model": "M05-DRIVER-150W",
+  "name": "Nano Internal Driver",
+  "category": "Magnetic Track Driver",
+  "specs": [
+   [
+    "Series",
+    "05MM Nano Magnetic Light Series"
+   ],
+   [
+    "Wattage",
+    "150W"
+   ],
+   [
+    "Product Code",
+    "M05-DRIVER-150W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-06/1.jpg"
+  ]
+ },
+ {
+  "model": "05MM Nano Series",
+  "name": "05MM Nano Connecting Accessories",
+  "category": "Magnetic Track Accessory",
+  "specs": [
+   [
+    "Series",
+    "05MM Nano Magnetic Light Series"
+   ],
+   [
+    "Product Codes",
+    "Pop Conceal Horizontal, Pop Conceal Vertical, Surface Horizontal, Surface Vertical, Corner Power Connector, Straight Power Connector, Input Module"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-07/1.jpg"
+  ]
+ },
+ {
+  "model": "MG01",
+  "name": "Profile Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "12W / 18W / 30W"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions — 12W",
+    "L22.2 × W2.7 × H2.5 cm"
+   ],
+   [
+    "Dimensions — 18W",
+    "L33 × W2.7 × H2.5 cm"
+   ],
+   [
+    "Dimensions — 30W",
+    "L55 × W2.7 × H2.5 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "MG01-12W, MG01-18W, MG01-30W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-08/1.jpg"
+  ]
+ },
+ {
+  "model": "MG02",
+  "name": "Linea Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "6W / 12W / 18W"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions — 6W",
+    "L11.4 × W2.6 × H2.5 cm"
+   ],
+   [
+    "Dimensions — 12W",
+    "L22 × W2.7 × H2.5 cm"
+   ],
+   [
+    "Dimensions — 18W",
+    "L33 × W2.7 × H2.5 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "MG02-6W, MG02-12W, MG02-18W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-09/1.jpg"
+  ]
+ },
+ {
+  "model": "MG01-12W",
+  "name": "Nano Track Spot (Slim Series)",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "12W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "L22 × W2.5 × H8 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MG01-12W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-10/1.jpg"
+  ]
+ },
+ {
+  "model": "MG06",
+  "name": "Folding Linea Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "6W / 12W"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions — 6W",
+    "L11.2 × W2.5 × H8 cm"
+   ],
+   [
+    "Dimensions — 12W",
+    "L22.2 × W2.7 × H2.5 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "MG06-6W, MG06-12W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-11/1.jpg"
+  ]
+ },
+ {
+  "model": "MG07",
+  "name": "Track Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "6W / 10W / 20W"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "Dimensions — 6W",
+    "L15.9 × W14.1 × H4.5 cm"
+   ],
+   [
+    "Dimensions — 10W",
+    "L18.1 × W14.8 × H4.7 cm"
+   ],
+   [
+    "Dimensions — 20W",
+    "L19.5 × W18 × H5.7 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "MG07-6W, MG07-10W, MG07-20W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-12/1.jpg"
+  ]
+ },
+ {
+  "model": "MG08-6W + 6W",
+  "name": "Dual Track Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "6W + 6W"
+   ],
+   [
+    "Beam Angle",
+    "36°"
+   ],
+   [
+    "Dimensions",
+    "L16.7 × W13.3 × H4.2 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MG08-6W + 6W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-13/1.jpg"
+  ]
+ },
+ {
+  "model": "MG09-6W",
+  "name": "Ternary Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "6W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "L12.3 × W5.1 × H2.5 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MG09-6W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-14/1.jpg"
+  ]
+ },
+ {
+  "model": "MG10-6W AY AD",
+  "name": "Adjustable SF Cylinder",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "6W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "L7.6 × W7.7 × H24 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MG10-6W AY AD"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-15/1.jpg"
+  ]
+ },
+ {
+  "model": "MG13-9W",
+  "name": "Track Linea Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "9W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "10-36°"
+   ],
+   [
+    "Dimensions",
+    "L14 × W9.7 × H30.7 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MG13-9W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-16/1.jpg"
+  ]
+ },
+ {
+  "model": "MG15-6W",
+  "name": "SMD Pendent Soft Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "6W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "Dia 31cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MG15-6W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-17/1.jpg"
+  ]
+ },
+ {
+  "model": "MG01-12W",
+  "name": "Pendent Light (Cylinder)",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "12W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 6000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "L30.5 × D8.5 × W10 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MG01-12W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-18/1.jpg"
+  ]
+ },
+ {
+  "model": "MG17-6W",
+  "name": "SMD Pendent Earth Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "6W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MG17-6W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-19/1.jpg"
+  ]
+ },
+ {
+  "model": "MG18-9W",
+  "name": "Pendent Light (Track Mount)",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "9W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 6000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "L30.5 × D8.5 × W10 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MG18-9W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-20/1.jpg"
+  ]
+ },
+ {
+  "model": "MG19",
+  "name": "Hose Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "8W / 16W / 32W"
+   ],
+   [
+    "CCT",
+    "4000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions — 8W",
+    "L500 cm"
+   ],
+   [
+    "Dimensions — 16W",
+    "L1000 cm"
+   ],
+   [
+    "Dimensions — 32W",
+    "L2000 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "MG19-8W, MG19-16W, MG19-32W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-21/1.jpg"
+  ]
+ },
+ {
+  "model": "MG-TR01",
+  "name": "Slim Surface Channel",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter"
+   ],
+   [
+    "Dimensions",
+    "W2.6 × H1.7 cm"
+   ],
+   [
+    "Product Codes",
+    "MG-TR01 SURFACE, MG-TR01 SURFACE"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-22/1.jpg"
+  ]
+ },
+ {
+  "model": "MG-TR02",
+  "name": "Slim Conseal Channel",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter"
+   ],
+   [
+    "Dimensions",
+    "W5.8 × H1.7 cm"
+   ],
+   [
+    "Product Codes",
+    "MG-TR02 CONCEAL, MG-TR02 CONCEAL"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-23/1.jpg"
+  ]
+ },
+ {
+  "model": "MG-DRIVER",
+  "name": "Driver",
+  "category": "Magnetic Track Driver",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Wattage",
+    "100W / 200W"
+   ],
+   [
+    "Dimensions — 100W",
+    "L20.6 × W2.6 × H2.6 cm"
+   ],
+   [
+    "Dimensions — 200W",
+    "L30.6 × W2.6 × H2.6 cm"
+   ],
+   [
+    "Dimensions — MG-DRIVER-100W SMART",
+    "L20.6 × W2.6 × H2.6 cm"
+   ],
+   [
+    "Dimensions — MG-DRIVER-200W SMART",
+    "L30.6 × W2.6 × H2.6 cm"
+   ],
+   [
+    "Product Codes",
+    "MG-DRIVER-100W SINGLE, MG-DRIVER-200W SINGLE, MG-DRIVER-100W SMART, MG-DRIVER-200W SMART"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-24/1.jpg"
+  ]
+ },
+ {
+  "model": "MG-SP01 DRIVER CABLE CONNECTOR",
+  "name": "Driver Connectors",
+  "category": "Magnetic Track Driver",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Product Codes",
+    "MG-SP01 DRIVER CABLE CONNECTOR, MG-SP02 EXTERNAL DRIVER CONNECTOR, MG-SP02 CONDUCTION MODULE"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-25/1.jpg"
+  ]
+ },
+ {
+  "model": "MG-TR-01",
+  "name": "Track Joiners (Slim Series)",
+  "category": "Magnetic Track Accessory",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Product Codes",
+    "MG-TR-01-1 VERTICAL, MG-TR-01-2 STRAIGHT, MG-TR-01-3 HORIZONTAL, MG-TR-01-5 PLUS JOINTER"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-26/1.jpg"
+  ]
+ },
+ {
+  "model": "MG-TR-03-3",
+  "name": "Hanging Kit",
+  "category": "Magnetic Track Accessory",
+  "specs": [
+   [
+    "Series",
+    "05MM Slim Magic Light Series"
+   ],
+   [
+    "Product Code",
+    "MG-TR-03-3 Hanging Kit"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-27/1.jpg"
+  ]
+ },
+ {
+  "model": "MICRO01-12W",
+  "name": "Magnetic Flood Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "11MM Micro Series"
+   ],
+   [
+    "Wattage",
+    "12W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "L32.8 × W1.0 × H1.0 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MICRO01-12W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-28/1.jpg"
+  ]
+ },
+ {
+  "model": "MICRO02-12W",
+  "name": "Magnetic Grille Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "11MM Micro Series"
+   ],
+   [
+    "Wattage",
+    "12W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "24°"
+   ],
+   [
+    "Dimensions",
+    "L32.8 × W1.0 × H1.0 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MICRO02-12W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-29/1.jpg"
+  ]
+ },
+ {
+  "model": "MICRO 03",
+  "name": "Magnetic Folding Grille Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "11MM Micro Series"
+   ],
+   [
+    "Wattage",
+    "6W / 12W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "24°"
+   ],
+   [
+    "Dimensions — 6W",
+    "L10.4 × W1.6 × H9.5 cm"
+   ],
+   [
+    "Dimensions — 12W",
+    "L20.5 × W1.6 × H9.5 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "MICRO 03-6W, MICRO 03-12W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-30/1.jpg"
+  ]
+ },
+ {
+  "model": "MICRO 04-12W",
+  "name": "Magnetic Spotlight",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "11MM Micro Series"
+   ],
+   [
+    "Wattage",
+    "12W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "24°"
+   ],
+   [
+    "Dimensions",
+    "L32.8 × W1.0 × H1.0 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MICRO 04-12W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-31/1.jpg"
+  ]
+ },
+ {
+  "model": "MICRO 05-7W",
+  "name": "Focusing Magnetic Track Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "11MM Micro Series"
+   ],
+   [
+    "Wattage",
+    "7W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "24°"
+   ],
+   [
+    "Dimensions",
+    "L10.7 × W2.4 × D11 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MICRO 05-7W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-32/1.jpg"
+  ]
+ },
+ {
+  "model": "MICRO 06-7W",
+  "name": "Magnetic 4-Head Track Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "11MM Micro Series"
+   ],
+   [
+    "Wattage",
+    "7W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "24°"
+   ],
+   [
+    "Dimensions",
+    "L6.4 × W6.5 × H11.4 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MICRO 06-7W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-33/1.jpg"
+  ]
+ },
+ {
+  "model": "MICRO 07-7W",
+  "name": "Magnetic Lence Linea Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "11MM Micro Series"
+   ],
+   [
+    "Wattage",
+    "7W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "24°"
+   ],
+   [
+    "Dimensions",
+    "L15.8 × W5.2 × H3.1 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MICRO 07-7W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-34/1.jpg"
+  ]
+ },
+ {
+  "model": "MICRO-150W 48W Driver",
+  "name": "Micro Driver 150W",
+  "category": "Magnetic Track Driver",
+  "specs": [
+   [
+    "Series",
+    "11MM Micro Series"
+   ],
+   [
+    "Wattage",
+    "150W / 48W"
+   ],
+   [
+    "Product Code",
+    "MICRO-150W 48W Driver"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-35/1.jpg"
+  ]
+ },
+ {
+  "model": "MCR-CH-01 Pop",
+  "name": "11MM Micro Track Channel (Pop Conceal)",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "11MM Micro Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter"
+   ],
+   [
+    "Dimensions",
+    "W4.4 × H1.5 cm"
+   ],
+   [
+    "Product Codes",
+    "MCR-CH-01 Pop Conceal, MCR-CH-01 Pop Conceal"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-36/1.jpg"
+  ]
+ },
+ {
+  "model": "11MM Micro Series",
+  "name": "11MM Micro Track Channel (Surface)",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "11MM Micro Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter"
+   ],
+   [
+    "Dimensions",
+    "W2 × H1.5 cm"
+   ],
+   [
+    "Product Codes",
+    "MCR-CH-Surface, MCR-CH-Surface"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-37/1.jpg"
+  ]
+ },
+ {
+  "model": "11MM Micro Series",
+  "name": "11MM Micro Connecting Accessories",
+  "category": "Magnetic Track Accessory",
+  "specs": [
+   [
+    "Series",
+    "11MM Micro Series"
+   ],
+   [
+    "Product Codes",
+    "Micro Pop Conceal Horizontal, Micro Pop Conceal Vertical, Micro Surface Horizontal, Micro Surface Vertical"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-38/1.jpg"
+  ]
+ },
+ {
+  "model": "11MM Micro Series",
+  "name": "Power Connectors",
+  "category": "Magnetic Track Accessory",
+  "specs": [
+   [
+    "Series",
+    "11MM Micro Series"
+   ],
+   [
+    "Product Codes",
+    "Micro Corner Connectors, Micro Straight Connector, Micro Input Module"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-39/1.jpg"
+  ]
+ },
+ {
+  "model": "MINI-PROFILE",
+  "name": "Mini Profile Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Wattage",
+    "10W / 20W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions — 10W",
+    "L41.5 × W1.6 × H1.8 cm"
+   ],
+   [
+    "Dimensions — 20W",
+    "L55 × W1.6 × H1.8 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "MINI-PROFILE-10W, MINI-PROFILE-20W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-40/1.jpg"
+  ]
+ },
+ {
+  "model": "MINI-LINEA",
+  "name": "Mini Linea Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Wattage",
+    "06W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "24°"
+   ],
+   [
+    "Dimensions — 06W",
+    "L26.5 × W1.6 × H1.7 cm"
+   ],
+   [
+    "Dimensions — MINI-LINEA-06W (as printed)",
+    "L38 × W1.6 × H1.7 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "MINI-LINEA-06W, MINI-LINEA-06W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-41/1.jpg"
+  ]
+ },
+ {
+  "model": "MINI-LINEA",
+  "name": "Mini Linea Folding Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Wattage",
+    "06W / 12W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "24°"
+   ],
+   [
+    "Dimensions — 06W",
+    "L26.5 × W1.6 × H1.7 cm"
+   ],
+   [
+    "Dimensions — 12W",
+    "L38 × W1.6 × H1.7 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "MINI-LINEA-06W, MINI-LINEA-12W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-42/1.jpg"
+  ]
+ },
+ {
+  "model": "MINI ROUND SMD PROFILE-12W",
+  "name": "Mini Round Profile Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Wattage",
+    "12W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "W2 × H1.5 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MINI ROUND SMD PROFILE-12W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-43/1.jpg"
+  ]
+ },
+ {
+  "model": "MINI TRACK",
+  "name": "Mini Track Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Wattage",
+    "12W / 30W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6000K"
+   ],
+   [
+    "Beam Angle",
+    "10-36°"
+   ],
+   [
+    "Dimensions — 12W",
+    "D14.8 × H4.7 cm"
+   ],
+   [
+    "Dimensions — MINI TRACK-12W (as printed)",
+    "D18 × H5.7 cm"
+   ],
+   [
+    "Dimensions — 30W",
+    "D21.1 × H6.7 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "MINI TRACK-12W, MINI TRACK-12W, MINI TRACK-30W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-44/1.jpg"
+  ]
+ },
+ {
+  "model": "MINI TRACK ROUND-9W",
+  "name": "Mini Track Round",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Wattage",
+    "9W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "10-36°"
+   ],
+   [
+    "Dimensions",
+    "L14 × W9.7 × H30.7 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MINI TRACK ROUND-9W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-45/1.jpg"
+  ]
+ },
+ {
+  "model": "MINI TRACK SQUARE-9W",
+  "name": "Mini Track Square",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Wattage",
+    "9W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "10-36°"
+   ],
+   [
+    "Dimensions",
+    "L9.5 × W5.5 × H4.5 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MINI TRACK SQUARE-9W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-46/1.jpg"
+  ]
+ },
+ {
+  "model": "MINI PENDENT LIGHT-10W",
+  "name": "Mini Pendent Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Wattage",
+    "10W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6000K"
+   ],
+   [
+    "Beam Angle",
+    "10-36°"
+   ],
+   [
+    "Dimensions",
+    "D4.9 × H30.5 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MINI PENDENT LIGHT-10W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-47/1.jpg"
+  ]
+ },
+ {
+  "model": "16MM Mini Series",
+  "name": "Mini Track Conceal",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter / 3 Meter"
+   ],
+   [
+    "Dimensions",
+    "W3.5 × H2.1 cm"
+   ],
+   [
+    "Product Codes",
+    "MINI TRACK POP CONCEAL, MINI TRACK POP CONCEAL, MINI TRACK POP CONCEAL"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-48/1.jpg"
+  ]
+ },
+ {
+  "model": "16MM Mini Series",
+  "name": "Mini Track Surface",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter / 3 Meter"
+   ],
+   [
+    "Dimensions",
+    "W2.6 × H2.1 cm"
+   ],
+   [
+    "Product Codes",
+    "MINI TRACK POP CONCEAL, MINI TRACK POP CONCEAL, MINI TRACK POP CONCEAL"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-49/1.jpg"
+  ]
+ },
+ {
+  "model": "MINI-DRIVER",
+  "name": "Mini Power Supply",
+  "category": "Magnetic Track Driver",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Wattage",
+    "100W / 200W"
+   ],
+   [
+    "Dimensions — 100W",
+    "L28.5 × W1.7 × H1.8 cm"
+   ],
+   [
+    "Dimensions — 200W",
+    "L28 × W1.7 × H1.8 cm"
+   ],
+   [
+    "Product Codes",
+    "MINI-DRIVER 100W, MINI-DRIVER 200W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-50/1.jpg"
+  ]
+ },
+ {
+  "model": "16MM Mini Series",
+  "name": "Jointers",
+  "category": "Magnetic Track Accessory",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Product Codes",
+    "MINI JOINTER POP CONCEAL HORIZONTAL, MINI JOINTER POP CONCEAL VERTICAL, MINI JOINTER SURFACE HORIZONTAL, MINI JOINTER SURFACE VERTICAL"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-51/1.jpg"
+  ]
+ },
+ {
+  "model": "16MM Mini Series",
+  "name": "Connectors & Hanging Kit",
+  "category": "Magnetic Track Accessory",
+  "specs": [
+   [
+    "Series",
+    "16MM Mini Magnetic Profile Light Series"
+   ],
+   [
+    "Product Codes",
+    "MINI STRAIGHT CONNECTOR, MINI CORNER CONNECTOR, MINI INPUT MODULE, MINI HANGING KIT"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-52/1.jpg"
+  ]
+ },
+ {
+  "model": "TR-PROFILE",
+  "name": "TR Profile",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Wattage",
+    "10W / 20W / 30W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6000K / 4-in-1 / Tuya"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions — 10W",
+    "L30.5 × W2.3 × H4.3 cm"
+   ],
+   [
+    "Dimensions — 20W",
+    "L60.8 × W2.3 × H4.3 cm"
+   ],
+   [
+    "Dimensions — 30W",
+    "L90.8 × W2.3 × H4.3 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "TR-PROFILE-10W, TR-PROFILE-20W, TR-PROFILE-30W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-53/1.jpg"
+  ]
+ },
+ {
+  "model": "TR-LINEA",
+  "name": "TR Linea Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Wattage",
+    "6W / 12W / 18W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6000K / 4-in-1 / Tuya"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions — 6W",
+    "L11.5 × W2.3 × H4.3 cm"
+   ],
+   [
+    "Dimensions — 12W",
+    "L22.4 × W2.3 × H4.3 cm"
+   ],
+   [
+    "Dimensions — 18W",
+    "L33.2 × W2.3 × H4.3 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "TR-LINEA-6W, TR-LINEA-12W, TR-LINEA-18W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-54/1.jpg"
+  ]
+ },
+ {
+  "model": "TR FOLDING LINEA",
+  "name": "TR Folding Linea",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Wattage",
+    "6W / 12W / 18W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6000K / 4-in-1 / Tuya"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions — 6W",
+    "L11.6 × W2.2 × H10.5 cm"
+   ],
+   [
+    "Dimensions — 12W",
+    "L22.4 × W2.2 × H10.5 cm"
+   ],
+   [
+    "Dimensions — 18W",
+    "L33.3 × W2.2 × H10.5 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "TR FOLDING LINEA-6W, TR FOLDING LINEA-12W, TR FOLDING LINEA-18W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-55/1.jpg"
+  ]
+ },
+ {
+  "model": "TR TRACK",
+  "name": "Track Spot",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Wattage",
+    "12W / 20W / 30W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6000K / 4-in-1 / Tuya"
+   ],
+   [
+    "Beam Angle",
+    "10-36°"
+   ],
+   [
+    "Dimensions — 12W",
+    "D14.8 × H4.7 cm"
+   ],
+   [
+    "Dimensions — 20W",
+    "D18 × H5.7 cm"
+   ],
+   [
+    "Dimensions — 30W",
+    "D21.1 × H6.7 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "TR TRACK-12W, TR TRACK-20W, TR TRACK-30W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-56/1.jpg"
+  ]
+ },
+ {
+  "model": "TR PENDENT",
+  "name": "TR Pendent",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Wattage",
+    "6W / 10W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6000K"
+   ],
+   [
+    "Beam Angle",
+    "10-36°"
+   ],
+   [
+    "Dimensions",
+    "D15.9 × H5.1 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "TR PENDENT-6W, TR PENDENT-10W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-57/1.jpg"
+  ]
+ },
+ {
+  "model": "TR ROUND PROFILE-12W",
+  "name": "TR Round Profile",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Wattage",
+    "12W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "L30.2 × W8.2 × H8 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "TR ROUND PROFILE-12W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-58/1.jpg"
+  ]
+ },
+ {
+  "model": "TR RD TRACK-09W",
+  "name": "TR Track Linea Round",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Wattage",
+    "09W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "10-36°"
+   ],
+   [
+    "Dimensions",
+    "L30.1 × W9.6 × H14 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "TR RD TRACK-09W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-59/1.jpg"
+  ]
+ },
+ {
+  "model": "TR SQ TRACK-09",
+  "name": "TR Track Linea Square",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "10-36°"
+   ],
+   [
+    "Dimensions",
+    "L10.4 × W4 × H14 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "TR SQ TRACK-09"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-60/1.jpg"
+  ]
+ },
+ {
+  "model": "TR CORNER SMD",
+  "name": "TR Corner Profile",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Wattage",
+    "10W / 30W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 6000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "L15.5 × W2.2 × H4.3 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "TR CORNER SMD-10W, TR CORNER SMD-30W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-61/1.jpg"
+  ]
+ },
+ {
+  "model": "MICRO02-12W",
+  "name": "TR Hose Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Wattage",
+    "12W"
+   ],
+   [
+    "CCT",
+    "4000K"
+   ],
+   [
+    "Beam Angle",
+    "24°"
+   ],
+   [
+    "Dimensions",
+    "L32.8 × W1.0 × H1.0 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "MICRO02-12W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-62/1.jpg"
+  ]
+ },
+ {
+  "model": "TR01-POP CONCEAL",
+  "name": "25MM Traditional Track Channel (Pop Conceal)",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Length",
+    "1 / 2 / 3 Meter"
+   ],
+   [
+    "Weight",
+    "700 GM (Regular) / 600 GM (Eco) / 780 GM (Heavy)"
+   ],
+   [
+    "Dimensions",
+    "W3.5 × H4.5 cm"
+   ],
+   [
+    "Product Codes",
+    "TR01-POP CONCEAL REGULAR, TR01-POP CONCEAL ECO, TR01-POP CONCEAL HEAVY"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-63/1.jpg"
+  ]
+ },
+ {
+  "model": "TR02",
+  "name": "25MM Traditional Track Channel (Surface)",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter / 3 Meter"
+   ],
+   [
+    "Dimensions",
+    "W2.7 × H5 cm"
+   ],
+   [
+    "Product Codes",
+    "TR02-SURFACE, TR02-SURFACE, TR02-SURFACE"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-64/1.jpg"
+  ]
+ },
+ {
+  "model": "TR03",
+  "name": "Track Channel (Conceal)",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter / 3 Meter"
+   ],
+   [
+    "Dimensions",
+    "H4.5 × W5.8 cm"
+   ],
+   [
+    "Product Codes",
+    "TR03-CONCEAL, TR03-CONCEAL, TR03-CONCEAL"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-65/1.jpg"
+  ]
+ },
+ {
+  "model": "TR04-TOP",
+  "name": "Track Channel (Top Conceal)",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter / 3 Meter"
+   ],
+   [
+    "Dimensions",
+    "W3.8 × H5.1 cm"
+   ],
+   [
+    "Product Codes",
+    "TR04-TOP CONCEAL, TR04-TOP CONCEAL, TR04-TOP CONCEAL"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-66/1.jpg"
+  ]
+ },
+ {
+  "model": "25MM Traditional Series",
+  "name": "TR Driver",
+  "category": "Magnetic Track Driver",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "Wattage",
+    "100W + 200W"
+   ],
+   [
+    "Dimensions",
+    "L28.2 × W2.2 × H4.5 cm"
+   ],
+   [
+    "Product Codes",
+    "TR DRIVER ECO, TR DRIVER HEAVY, SPO17 4 IN1DN, SPO18 TUYA"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-67/1.jpg"
+  ]
+ },
+ {
+  "model": "25MM Traditional Series",
+  "name": "25MM Traditional Connecting Accessories",
+  "category": "Magnetic Track Accessory",
+  "specs": [
+   [
+    "Series",
+    "25MM Traditional Series"
+   ],
+   [
+    "TR Corner Power Connector",
+    "TR-01 Jointer Pop Conceal (Horizontal and Vertical)"
+   ],
+   [
+    "TR Straight Power Connector",
+    "TR-02 Surface (Horizontal and Vertical)"
+   ],
+   [
+    "TR Input Module",
+    "TR-03 Conceal Jointer (Horizontal and Vertical)"
+   ],
+   [
+    "TR Hanging Kit",
+    "TR-04 Top Conceal Jointer (Horizontal and Vertical)"
+   ],
+   [
+    "Product Codes",
+    "TR CORNER POWER CONNECTOR, TR STRAIGHT POWER CONNECTOR, TR INPUT MODULE, TR HANGING KIT, TR SPRING TOGGLE"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-68/1.jpg"
+  ]
+ },
+ {
+  "model": "25MM Round Series",
+  "name": "TR Curve Profile",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Round Magnetic Series"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Dimensions",
+    "L61 × W2.5 × H2.4 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "TR CURVE PROFILE"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-69/1.jpg"
+  ]
+ },
+ {
+  "model": "RM LINEA",
+  "name": "RM Linea Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Round Magnetic Series"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "L17 × W22.2 × H4.5 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "RM LINEA 800MM, RM LINEA 1200MM"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-70/1.jpg"
+  ]
+ },
+ {
+  "model": "RM 3 HEAD",
+  "name": "RM Grille Light",
+  "category": "Magnetic Track Light",
+  "specs": [
+   [
+    "Series",
+    "25MM Round Magnetic Series"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 6000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "D14.5 × W4.2 × H4.5 cm"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "RM 3 HEAD"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-71/1.jpg"
+  ]
+ },
+ {
+  "model": "RM POP CONCEAL",
+  "name": "RM Pop Conceal",
+  "category": "Magnetic Track Channel",
+  "specs": [
+   [
+    "Series",
+    "25MM Round Magnetic Series"
+   ],
+   [
+    "Product Codes",
+    "RM POP CONCEAL 800 MM (400 MM + 400 MM), RM POP CONCEAL 1200 MM (600 MM + 600 MM)"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-72/1.jpg"
+  ]
+ },
+ {
+  "model": "RM DRIVER",
+  "name": "RM Driver",
+  "category": "Magnetic Track Driver",
+  "specs": [
+   [
+    "Series",
+    "25MM Round Magnetic Series"
+   ],
+   [
+    "Wattage",
+    "100W"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter"
+   ],
+   [
+    "Dimensions — 100W",
+    "L28 × W2.2 × H4.5 cm"
+   ],
+   [
+    "Dimensions — RM DRIVER 1200 MM 100 W",
+    "L28.2 × W2.2 × H4.5 cm"
+   ],
+   [
+    "Product Codes",
+    "RM DRIVER 800 MM 100 W, RM DRIVER 1200 MM 100 W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-73/1.jpg"
+  ]
+ },
+ {
+  "model": "25MM Round Series",
+  "name": "TR Curve Jointer",
+  "category": "Magnetic Track Accessory",
+  "specs": [
+   [
+    "Series",
+    "25MM Round Magnetic Series"
+   ],
+   [
+    "Dimensions",
+    "L35.5 × W2.7 × H4.3 cm"
+   ],
+   [
+    "Product Code",
+    "TR CURVE JOINTER"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-74/1.jpg"
+  ]
+ },
+ {
+  "model": "25MM Round Series",
+  "name": "25MM Round Connecting Accessories",
+  "category": "Magnetic Track Accessory",
+  "specs": [
+   [
+    "Series",
+    "25MM Round Magnetic Series"
+   ],
+   [
+    "Product Codes",
+    "RM POWER CONNECTOR, RM INPUT MODULE, RM HANGING KIT"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-75/1.jpg"
+  ]
+ },
+ {
+  "model": "TR PROFILE",
+  "name": "TR Profile White Body",
+  "category": "Magnetic Track Light — White Body",
+  "specs": [
+   [
+    "Series",
+    "25MM White Body Series"
+   ],
+   [
+    "Wattage",
+    "10W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 6000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions — 10W",
+    "L41.5 × W1.7 × H1.7 cm"
+   ],
+   [
+    "Dimensions — TR PROFILE 10W (as printed)",
+    "L75 × W1.7 × H1.7 cm"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "TR PROFILE 10W, TR PROFILE 10W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-76/1.jpg"
+  ]
+ },
+ {
+  "model": "TR LINEA",
+  "name": "Linea White Body",
+  "category": "Magnetic Track Light — White Body",
+  "specs": [
+   [
+    "Series",
+    "25MM White Body Series"
+   ],
+   [
+    "Wattage",
+    "6W / 12W / 18W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 6000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions — 6W",
+    "L13 × W1.6 × H6 cm"
+   ],
+   [
+    "Dimensions — 12W",
+    "L24.5 × W1.6 × H6 cm"
+   ],
+   [
+    "Dimensions — 18W",
+    "L33.2 × W1.6 × H6 cm"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "TR LINEA 6W, TR LINEA 12W, TR LINEA 18W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-77/1.jpg"
+  ]
+ },
+ {
+  "model": "TR FOLDING LINEA",
+  "name": "Folding Linea White Body",
+  "category": "Magnetic Track Light — White Body",
+  "specs": [
+   [
+    "Series",
+    "25MM White Body Series"
+   ],
+   [
+    "Wattage",
+    "6W / 12W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions — 6W",
+    "L26.5 × W1.6 × H1.7 cm"
+   ],
+   [
+    "Dimensions — 12W",
+    "L38 × W1.6 × H1.7 cm"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "TR FOLDING LINEA 6W, TR FOLDING LINEA 12W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-78/1.jpg"
+  ]
+ },
+ {
+  "model": "TR TRACK",
+  "name": "Track Spot White Body",
+  "category": "Magnetic Track Light — White Body",
+  "specs": [
+   [
+    "Series",
+    "25MM White Body Series"
+   ],
+   [
+    "Wattage",
+    "12W / 20W / 30W"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 5000K / 6000K"
+   ],
+   [
+    "Beam Angle",
+    "10-36°"
+   ],
+   [
+    "Dimensions — 12W",
+    "L17.5 × D15 × H11 cm"
+   ],
+   [
+    "Dimensions — 20W",
+    "L19 × D18.1 × H12 cm"
+   ],
+   [
+    "Dimensions — 30W",
+    "L19.2 × D21.3 × H13 cm"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Codes",
+    "TR TRACK 12W, TR TRACK 20W, TR TRACK 30W"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-79/1.jpg"
+  ]
+ },
+ {
+  "model": "25MM White Body Series",
+  "name": "Corner Profile White Body",
+  "category": "Magnetic Track Light — White Body",
+  "specs": [
+   [
+    "Series",
+    "25MM White Body Series"
+   ],
+   [
+    "CCT",
+    "3000K / 4000K / 6000K"
+   ],
+   [
+    "Beam Angle",
+    "120°"
+   ],
+   [
+    "Dimensions",
+    "L15.5 × W2.2 × H4.3 cm"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "CRI",
+    "90 CRI"
+   ],
+   [
+    "Product Code",
+    "TR CORNER PROFILE"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-80/1.jpg"
+  ]
+ },
+ {
+  "model": "25MM White Body Series",
+  "name": "Track Channel White Body (Surface)",
+  "category": "Magnetic Track Channel — White Body",
+  "specs": [
+   [
+    "Series",
+    "25MM White Body Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter / 3 Meter"
+   ],
+   [
+    "Dimensions",
+    "W2.7 × H5 cm"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "Product Codes",
+    "TR SURFACE, TR SURFACE, TR SURFACE"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-81/1.jpg"
+  ]
+ },
+ {
+  "model": "25MM White Body Series",
+  "name": "Track Channel White Body (Pop Conceal)",
+  "category": "Magnetic Track Channel — White Body",
+  "specs": [
+   [
+    "Series",
+    "25MM White Body Series"
+   ],
+   [
+    "Length",
+    "1 Meter / 2 Meter / 3 Meter"
+   ],
+   [
+    "Dimensions",
+    "W5.5 × H4.5 cm"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "Product Codes",
+    "TR POP CONCEAL, TR POP CONCEAL, TR POP CONCEAL"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-82/1.jpg"
+  ]
+ },
+ {
+  "model": "25MM White Body Series",
+  "name": "Power Connectors White Body",
+  "category": "Magnetic Track Accessory — White Body",
+  "specs": [
+   [
+    "Series",
+    "25MM White Body Series"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "Product Codes",
+    "TR CORNER CONNECTOR, TR STRAIGHT JOINTER, TR INPUT MODULE"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-83/1.jpg"
+  ]
+ },
+ {
+  "model": "25MM White Body Series",
+  "name": "Connecting Accessories White Body",
+  "category": "Magnetic Track Accessory — White Body",
+  "specs": [
+   [
+    "Series",
+    "25MM White Body Series"
+   ],
+   [
+    "Body Colour",
+    "White"
+   ],
+   [
+    "Product Codes",
+    "POP CONCEAL JOINTER HORIZONTAL, POP CONCEAL JOINTER VERTICAL, SURFACE JOINTER HORIZONTAL, SURFACE JOINTER VERTICAL"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/MT-84/1.jpg"
+  ]
+ },
+ {
+  "model": "AU-301",
+  "name": "Gloom",
+  "category": "Track Light",
+  "specs": [
+   [
+    "System",
+    "Surface track-mounted spotlight"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "Note",
+    "Contact us for full wattage, CCT and beam angle specifications"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-301/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-301/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-301/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-301/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-301/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-301/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-301/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-301/8.jpg"
+  ]
+ },
+ {
+  "model": "AU-302",
+  "name": "Flare Lens",
+  "category": "Track Light",
+  "specs": [
+   [
+    "System",
+    "Lensed track-mounted spotlight"
+   ],
+   [
+    "Body Colour",
+    "Black, White"
+   ],
+   [
+    "Note",
+    "Contact us for full wattage, CCT and beam angle specifications"
+   ]
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-302/1.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-302/2.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-302/3.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-302/4.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-302/5.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-302/6.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-302/7.jpg",
+   "https://raw.githubusercontent.com/aurafittechnologies/aurafitwebsite/main/assets/products/AU-302/8.jpg"
+  ]
+ }
+]
