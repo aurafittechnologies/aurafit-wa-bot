@@ -134,7 +134,7 @@ app.post('/webhook', (req, res) => {
 async function process_(from, name, text, type, msgId) {
   graph({ status: 'read', message_id: msgId, typing_indicator: { type: 'text' } }, true).catch(() => {});
   if (!text) {
-    await send(from, { type: 'text', body: 'Thank you! I can read text messages only. Please type your requirement (product name or code, quantity, city) and I will help you right away. \u{1F31F}' });
+    await send(from, { type: 'text', body: 'Thank you for your message. At present I can read text messages only. Please type your requirement, such as the product name or code, the quantity and your city, and I will assist you. Our team has also been informed.' });
     await notifyOwner(`Customer ${name || ''} (+${from}) sent a ${type} message. Please check WhatsApp.`);
     return;
   }
