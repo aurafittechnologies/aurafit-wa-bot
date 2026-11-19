@@ -159,5 +159,5 @@ async function process_(from, name, text, type, msgId) {
 
 app.listen(PORT, () => {
   console.log(`AuraFit bot listening on ${PORT}`);
-  console.log(`AI: ${GROQ_API_KEY ? 'Groq enabled (' + (process.env.GROQ_MODEL || 'llama-3.3-70b-versatile') + ')' : 'OFF - set GROQ_API_KEY'} | team alerts: ${OWNER_NUMBER ? 'on' : 'OFF - set OWNER_NUMBER'}`);
+  console.log(`AI: ${GROQ_API_KEY ? 'Groq enabled (' + (process.env.GROQ_MODEL || 'openai/gpt-oss-120b') + ')' : 'OFF - set GROQ_API_KEY'} | team alerts: ${OWNER_NUMBER ? 'on' : 'OFF - set OWNER_NUMBER'}`);
 });

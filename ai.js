@@ -4,7 +4,7 @@ const company = require('./company.json');
 const cat = require('./catalog');
 
 const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions';
-const model = () => process.env.GROQ_MODEL || 'llama-3.3-70b-versatile';
+const model = () => process.env.GROQ_MODEL || 'openai/gpt-oss-120b';
 const MAX_IMAGES = parseInt(process.env.MAX_IMAGES || '3', 10);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -133,7 +133,9 @@ async function respond({ from, name, text }) {
   for (let i = 0; i < 7; i++) {
     let data;
     try {
-      data = await groq({ model: model(), messages, tools: TOOLS, tool_choice: 'auto', temperature: 0.3, max_tokens: 700 });
+      const body = { model: model(), messages, tools: TOOLS, tool_choice: 'auto', temperature: 0.3, max_tokens: 1500 };
+      if (/gpt-oss/i.test(body.model)) body.reasoning_effort = 'low'; // keep the reasoning short so replies are fast and never cut off
+      data = await groq(body);
     } catch (e) {
       if (e.status === 400 && /tool_use_failed|failed_generation/.test(e.body || '') && toolRetries++ < 2) continue;
       throw e;
