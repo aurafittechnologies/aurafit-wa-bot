@@ -60,7 +60,7 @@ const ok = (c, m) => { if (!c) { console.error('FAIL:', m); process.exitCode = 1
   // 5. Groq failure -> fallback to old rule-based bot
   global.fetch = ((orig) => async (u, o) => (String(u).includes('api.groq.com') ? new Response('{"error":"x"}', { status: 400 }) : orig(u, o)))(global.fetch);
   out = await customer('menu', []);
-  ok(out.some((s) => s.type === 'text' && /Welcome to \*AuraFit/.test(s.text.body)), 'Groq error -> fallback menu still replies');
+  ok(out.some((s) => s.type === 'text' && /Welcome to AuraFit/.test(s.text.body)), 'Groq error -> fallback menu still replies');
   const http = await realFetch('http://localhost:3999/brochure.pdf');
   ok(http.status === 200 && (await http.arrayBuffer()).byteLength > 1e6, 'brochure.pdf served by the bot');
   process.exit(process.exitCode || 0);

@@ -24,6 +24,12 @@ for (const v of variants) {
   g.variants.push(v);
   (v.aliases || []).forEach((a) => g.aliases.add(norm(a)));
 }
+// price-list rows that have no QT code but do exist on the website
+const WEB_LINK = {
+  'LED|FLOOD': 'AU-FL', 'LED|STREET LIGHT': 'AU-SL', 'LED|STRIP': 'Premium',
+  'CHOKE|COMPACT PRO PREMIUM SMPS 12V': '12V/24V Series', 'CHOKE|X1 SERIES / PRO SERIES': 'SMPS Series',
+};
+for (const [key, g] of groups) if (!g.web_model && WEB_LINK[key]) g.web_model = WEB_LINK[key];
 const pricedGroups = [...groups.values()];
 const byVariantId = new Map(variants.map((v) => [v.id, v]));
 
@@ -157,6 +163,31 @@ function buildQuotation({ customer, items }) {
   return { customer, lines, subtotal, total_discount: money(subtotal - grand), grand_total: grand };
 }
 
+const nice = (n) => String(n).toLowerCase().replace(/\b[a-z]/g, (c) => c.toUpperCase())
+  .replace(/\bCob\b/g, 'COB').replace(/\bSmps\b/g, 'SMPS').replace(/\bLed\b/g, 'LED').replace(/\bPvc\b/g, 'PVC')
+  .replace(/\bDob\b/g, 'DOB').replace(/\bAurafit\b\s*/g, '').replace(/\b3in1\b/gi, '3-in-1').replace(/(\d)W\b/gi, '$1W')
+  .replace(/\((\d)X(\d)\)/gi, '($1x$2)').replace(/(\d)v\b/gi, '$1V').replace(/\s\+/g, '+').replace(/\s+/g, ' ').trim();
+
+// Compact list of every product the AI must know, built from the real data (no guessing).
+function catalogIndex() {
+  const byCat = new Map();
+  for (const g of pricedGroups) {
+    const label = /^LED$/i.test(g.code) ? 'LED ' + nice(g.name).replace(/^LED /, '')
+      : /^(AU|QT)-/i.test(g.web_model || g.code) && !/^PNL|^CHOKE/i.test(g.code) ? `${g.web_model || g.code} ${nice(g.name)}` : nice(g.name);
+    if (!byCat.has(g.category)) byCat.set(g.category, []);
+    byCat.get(g.category).push(label);
+  }
+  const lines = [];
+  for (const [c, arr] of byCat) lines.push(`${c} (${arr.length}): ${arr.join(', ')}`);
+  const pricedWebModels = new Set(pricedGroups.map((g) => norm(g.web_model)));
+  const other = products.filter((p) => !pricedWebModels.has(norm(p.model)));
+  const mag = other.filter((p) => /magnetic/i.test(p.category));
+  const rest = other.filter((p) => !/magnetic/i.test(p.category));
+  if (rest.length) lines.push('Catalogue only, price through the team: ' + rest.map((p) => `${p.model} ${p.name}`).join(', '));
+  if (mag.length) lines.push(`Magnetic track systems, price through the team (${mag.length} items: lights, channels, drivers, accessories): series Nano 05mm, Micro 11mm, Mini 16mm, Slim, 25mm Traditional, 25mm Round, White Body. Use search_products for exact items.`);
+  return lines.join('\n');
+}
+
 const CATEGORY_OVERVIEW = [...new Set(variants.map((v) => v.category))].join('; ');
 
-module.exports = { searchProducts, getProductDetails, webProduct, buildQuotation, offer, DISCOUNT, TIER_LABEL, CATEGORY_OVERVIEW, money, products };
+module.exports = { catalogIndex, searchProducts, getProductDetails, webProduct, buildQuotation, offer, DISCOUNT, TIER_LABEL, CATEGORY_OVERVIEW, money, products };

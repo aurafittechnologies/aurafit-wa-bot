@@ -70,11 +70,11 @@ async function sendQuote(to, a) {
   } catch (e) {
     console.error('Quotation PDF failed, sending as text:', e.message);
   }
-  for (const c of chunks(Q.quoteText(a.q, a.meta, a.cust))) await graph({ to, type: 'text', text: { body: c, preview_url: false } });
+  for (const c of chunks(ai.plain(Q.quoteText(a.q, a.meta, a.cust)))) await graph({ to, type: 'text', text: { body: c, preview_url: false } });
 }
 
 async function send(to, a) {
-  if (a.type === 'text') { for (const c of chunks(a.body)) await graph({ to, type: 'text', text: { body: c, preview_url: false } }); return; }
+  if (a.type === 'text') { for (const c of chunks(ai.plain(a.body))) await graph({ to, type: 'text', text: { body: c, preview_url: false } }); return; }
   if (a.type === 'image') return graph({ to, type: 'image', image: { link: a.link, ...(a.caption ? { caption: a.caption } : {}) } });
   if (a.type === 'document') return graph({ to, type: 'document', document: { link: a.link, filename: a.filename, ...(a.caption ? { caption: a.caption } : {}) } });
   if (a.type === 'quote') return sendQuote(to, a);
