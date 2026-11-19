@@ -1,12 +1,16 @@
 {
   "name": "aurafit-whatsapp-bot",
-  "version": "1.0.0",
-  "description": "Free WhatsApp Cloud API bot for AuraFit Technologies: product specs, photos and brochure",
+  "version": "2.0.0",
+  "description": "AuraFit Technologies WhatsApp Cloud API bot: Groq AI assistant, product info, photos, brochure and quotations (MRP less 40%)",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "node test.js"
   },
-  "engines": { "node": ">=18" },
-  "dependencies": { "express": "^4.19.2" }
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
